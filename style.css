@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  margin: 2%;
+  font-family: 'Roboto';
+}
+
+#map {
+    height: 85%;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto';
+}
+
+#pac-input {
+    position: absolute;
+    left: 188px;
+    top: 10px !important;
+    width: 30em;
+    background: none padding-box padding-box rgb(255, 255, 255);
+    display: table-cell;
+    border: 0px;
+    margin: 0px;
+    padding: 0px 17px;
+    text-transform: none;
+    appearance: none;
+    cursor: pointer;
+    user-select: none;
+    direction: ltr;
+    overflow: hidden;
+    text-align: center;
+    height: 40px;
+    vertical-align: middle;
+    color: rgb(86, 86, 86);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    box-shadow: rgb(0 0 0 / 30%) 0px 1px 4px -1px;
+}
